@@ -36,7 +36,7 @@ Experienced in handling large datasets, I leverage emerging technologies for enh
 
 
 
-## Rapidfire  
+##
 <tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Finance, Retail, Health, Real Estate, Logistics datasets](https://github.com/anupr-cloud/Projects)   
