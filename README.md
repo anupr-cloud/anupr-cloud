@@ -30,7 +30,7 @@
 
 <!-- I'm a data analyst skilled in extracting insights from complex datasets, driving data-driven decisions. Proficient in statistical analysis and visualization, I uncover patterns and trends. 
  -->
- I am an early career Data Science Practitioner 📈, specializing in data analysis and insights.Proficient in statistical analysis and visualization, I extract valuable insights from complex datasets to drive data-driven solutions.
+ I am an early career Data Science Practitioner 📈, specializing in data analysis and insights. Proficient in statistical analysis and visualization, I extract valuable insights from complex datasets to drive data-driven solutions.
 <!--  
 Experienced in handling large datasets, I leverage emerging technologies for enhanced analytics. From data cleansing to predictive modeling, I make data accessible for informed decision-making, unlocking its potential.   -->
 
