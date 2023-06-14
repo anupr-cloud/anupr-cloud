@@ -21,7 +21,7 @@
 
 
 
-## Hey 👋, I'm Anup  
+## Hi! 👋, I'm Anup  
   
 
 
@@ -30,7 +30,18 @@
 
 <!-- I'm a data analyst skilled in extracting insights from complex datasets, driving data-driven decisions. Proficient in statistical analysis and visualization, I uncover patterns and trends. 
  -->
- I am an early career Data Science Practitioner 📈, specializing in data analysis and insights. Proficient in statistical analysis and visualization, I extract valuable insights from complex datasets to drive data-driven solutions.
+<!--  I am an early career Data Science Practitioner 📈, specializing in data analysis and insights. Proficient in statistical analysis and visualization, I extract valuable insights from complex datasets to drive data-driven solutions. -->
+
+
+🔆 I am an early career Data Science Practitioner 📊, specializing in data analysis and insights. Proficient in statistical analysis and visualization, I extract valuable insights from complex datasets to drive data-driven solutions.
+
+💻 With expertise in Python, SQL, and data visualization  📈, I possess the skills to handle diverse datasets and transform them into actionable information.
+
+🚀 Passionate about collaborating on data-driven projects, I am always eager to contribute and unlock the power of data. Feel free to reach out to me for discussions, collaborations, or inquiries related to data analysis, insights, and data-driven solutions.
+
+Let's harness the potential of data together!
+
+
 <!--  
 Experienced in handling large datasets, I leverage emerging technologies for enhanced analytics. From data cleansing to predictive modeling, I make data accessible for informed decision-making, unlocking its potential.   -->
 
@@ -75,6 +86,7 @@ Experienced in handling large datasets, I leverage emerging technologies for enh
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://jupyter.org/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'/></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src='https://img.icons8.com/?size=512&id=11566&format=png' alt='Excel' height='40'/></a>
 </p>
   
 
