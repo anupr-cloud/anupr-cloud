@@ -76,6 +76,7 @@ Experienced in handling large datasets, I leverage emerging technologies for enh
   <a href="https://www.linkedin.com/in/anupranjans/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+<a href="https://medium.com/@anupranjan76" target="_blank"><img src="https://github.com/anupr-cloud/anupr-cloud/assets/55731192/6d36fc10-9fe0-434c-a67b-18d81cdebd55" alt="Medium" height="50" weight="52"/></a>
 </div>
 
 ###
@@ -87,7 +88,6 @@ Experienced in handling large datasets, I leverage emerging technologies for enh
  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://jupyter.org/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'/></a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src='https://img.icons8.com/?size=512&id=11566&format=png' alt='Excel' height='40'/></a>
-<a href="https://medium.com/" target="_blank"><img src="https://github.com/anupr-cloud/anupr-cloud/assets/55731192/6d36fc10-9fe0-434c-a67b-18d81cdebd55" alt="Medium" height="45"/></a>
 </p>
   
 
